@@ -23,8 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tpoda35&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="tpoda35's Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoda35&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="tpoda35's Top Languages">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tpoda35&theme=tokyonight&hide_border=true" alt="tpoda35's Streak">
 </p>
 
 ---
