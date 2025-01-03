@@ -30,7 +30,5 @@
 ---
 
 ### 🌟 Featured Projects
-- [Project 1](link-to-project)
-  - Description of project
-- [Project 2](link-to-project)
-  - Description of project
+- [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI)
+  - My first bigger project.
