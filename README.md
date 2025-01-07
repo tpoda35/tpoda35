@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Tamás]!
+# Hi there 👋, I'm [ Tamás ]!
 
 ### 👨‍💻 About Me
 - I’m currently working on [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI).
