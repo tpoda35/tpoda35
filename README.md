@@ -1,9 +1,9 @@
 # Hi there 👋, I'm [ Tamás ]!
 
 ### 👨‍💻 About Me
-- I’m currently working on [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI).
-- I’m learning Backend development.
 - I'm a 21 years old Computer Science student.
+- - I’m learning Backend development.
+- I’m currently working on [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI) (mostly).
 
 ---
 
