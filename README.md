@@ -31,3 +31,4 @@
 ### 🌟 Featured Projects
 - [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI)
   - My first bigger project.
+- [Realtime Chat App](https://github.com/tpoda35/JAVA.STUDY.rt-chatApp.git)
