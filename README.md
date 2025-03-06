@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - I'm a 21 years old Computer Science student.
 - I’m learning Backend development.
-- I’m currently working on [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI) (mostly).
+- I’m currently working on [Chat-App](https://github.com/tpoda35/JAVA.STUDY.rt-chatApp.git).
 
 ---
 
@@ -29,6 +29,4 @@
 ---
 
 ### 🌟 Featured Projects
-- [ECommerce API](https://github.com/tpoda35/JAVA.PROJECT.ECommerceAPI)
-  - My first bigger project.
 - [Realtime Chat App](https://github.com/tpoda35/JAVA.STUDY.rt-chatApp.git)
